@@ -17,6 +17,6 @@ legend {
 }
 
 
-fieldset + fieldset {
-    margin-top:  3rem;
+fieldset+fieldset {
+    margin-top: 3rem;
 }
