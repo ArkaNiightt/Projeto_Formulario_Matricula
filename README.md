@@ -3,7 +3,7 @@
 Este projeto consiste em um formulário de matrícula, desenvolvido com HTML, CSS e JavaScript, com o objetivo de coletar informações de estudantes para processos de matrícula online.
 
 ## Demo
-Você pode acessar o projeto ao vivo [aqui](https://arkaniightt.github.io/projeto_formulario_matricula/).
+Você pode acessar o projeto ao vivo [aqui](https://arkaniightt.github.io/Projeto_Formulario_Matricula/).
 
 ## Funcionalidades
 - Campos para coleta de informações pessoais.
